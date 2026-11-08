@@ -36,8 +36,7 @@ Final result looks like this
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://fratello-345.github.io/frontendmentor/project-2-blog-preview-card/index.html)
 
 ## My process
 
