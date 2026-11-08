@@ -20,11 +20,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-Website Link: 
+Website Link: (https://fratello-345.github.io/frontendmentor/project_1/index.html)
 
 
 ### Built with
-
+s
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
